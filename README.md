@@ -7,8 +7,8 @@ A web application for managing ZeroTier devices, providing detailed information 
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/yourusername/zerotier-device-management.git
-   cd zerotier-device-management
+   git clone https://github.com/yourusername/zerotier.git
+   cd zerotier
    ```
 
 2. Install dependencies:
